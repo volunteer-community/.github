@@ -2,7 +2,7 @@
 <h1 align="center">🍃 ECOF 🍃</h1>
 </br>
 <div  align="center">
-  <img width="100%" src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/a0215179-2cdb-496d-8a5d-860273a614af)9ae)">
+  <img width="100%" src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/cba6ffd0-4fba-4dea-ab38-16c709e55f88">
 </div>
 <h3 align="center">🍃 떡잎마을 방범대가 되어 지구를 지켜보아요! 🍃</h3>
 
@@ -49,7 +49,24 @@
 </br>
 
 ## ⚙️기술 스택
-</br>
+### Tools
+| Git | Github | Discord |
+| :---: | :---: | :---: |
+| <img alt="git logo" src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="65" height="65" > | <img alt="github logo" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="65" height="65"> | <img alt="Discord logo" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" height="65" width="65"> |
+### Front-end
+| Html | TypeScript | React | Styled-<br>Components | esLint | Prettier | React-<br>Query | Redux | CSS | React-<br>Router |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img alt="Html" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/440px-HTML5_logo_and_wordmark.svg.png" width="65" height="65" /> | <div style="display: flex; align-items: flex-start;"><img src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/a7b6f997-e673-49a0-90b3-44455dac8054" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div> | <img src="https://styled-components.com/logo.png" alt="styled-components icon" width="65" height="65" /> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /></div> |
+
+### Back-end
+| Java | mySQL | Security | AWS | JWT | Spring<br>Boot | Gradle | Spring<br>data Jpa | MariaDB | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/684edab9-ea95-4c8e-9542-ba9a81a45aa4" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div> | <img alt="jwt" src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/caad28c9-9230-42b0-bb48-cfde9fcf61b5" height="70" width="70" > | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > | <img alt="Gradle" src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/204f14a3-8484-4cdc-9393-b2e7372d12cd" width="80" height="80" > | <img alt="jpa" src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/61c62ddf-7d88-4314-8a42-40bc7ae1d267" width="70" height="80" > | <img alt="mariaDB" src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/958263d4-d18e-4eae-9436-702b149a5d22" width="80" height="80" > |
+### Deploy
+| Docker | RDS | S3 | AWS | EC2 | NginX |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <div style="display: flex; align-items: flex-start;"><img src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/eac13cef-d1d7-4b34-946e-d67ca5378821" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/7f84e396-abf0-4c5f-b5a6-9764db8caaae" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/8016cb6f-4bcc-4a4e-8083-11912fd121ae" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div> | <img alt="spring logo" src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/eeef6430-605e-471a-a957-2433dd796aca" height="50" width="50" > | <img alt="nginx" src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/e602cabc-7e61-42ed-a296-11e8355b0654" width="80" height="80" > |
+
 
 ## 📑 관련 문서
 
