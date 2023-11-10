@@ -74,6 +74,8 @@
 <details>
 <summary>1. 회원 </summary>
 <div dir="auto">
+
+<br>
   
 **FE**
 
@@ -107,6 +109,8 @@
 <details>
 <summary> 2. 커뮤니티 </summary>
 <div dir="auto">
+
+<br>
   
 **FE**
 
@@ -146,6 +150,8 @@
 <details>
 <summary> 3. 커뮤니티 내  게시글 작성 </summary>
 <div dir="auto">
+
+<br>
   
 **FE**
 
@@ -188,6 +194,8 @@
 <details>
 <summary> 4. 댓글작성 </summary>
 <div dir="auto">
+
+<br>
   
 **FE**
 
@@ -208,6 +216,8 @@
 <details>
 <summary> 5. 마이페이지 </summary>
 <div dir="auto">
+
+<br>
   
 **FE**
 
@@ -239,6 +249,8 @@
 <details>
 <summary> 6. 관리자 페이지  </summary>
 <div dir="auto">
+
+<br>
   
 **FE**
 
@@ -260,6 +272,8 @@
 <details>
 <summary> 7. 서버 </summary>
 <div dir="auto">
+
+<br>
   
 **FE**
 
