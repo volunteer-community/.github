@@ -25,7 +25,7 @@
 </br>
 
 ## 🚩 프로젝트 개요
-* **프로젝트 명** : ECOF
+* **프로젝트 명** : <img width="50" src="https://github.com/volunteer-community/volunteer-backend/assets/107487996/1b7b21f4-94f8-4b6a-ad3e-8f8ee0ac752b">
 * **진행 기간** : 23.10.16 ~ 23.11.10
 
 </br>
